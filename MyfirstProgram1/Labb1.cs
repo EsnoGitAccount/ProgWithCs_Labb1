@@ -1,4 +1,4 @@
-﻿// Esbjörn Holmerin Nord, Fullstack .Net 2025
+﻿// Esbjörn Holmerin Nord, NET25
 
 // Create an int with a number
 int number = 5;
