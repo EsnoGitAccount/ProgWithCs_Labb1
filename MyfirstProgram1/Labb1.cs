@@ -30,7 +30,7 @@ do
 while (input == null || input.Length < 1);
 
 // Greets the user with their input name
-Console.WriteLine("Hej, " + input);
+Console.WriteLine("Hej " + input);
 
 
 // Prints every number from 0 to the number arbitrarily decided at the start of the program
