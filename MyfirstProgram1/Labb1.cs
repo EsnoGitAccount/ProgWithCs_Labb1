@@ -3,7 +3,7 @@
 // Create an int with a number
 int number = 5;
 
-// Checks if the number is bigger than 10 and respons accordingly
+// Checks if the number is bigger than 10 and respond accordingly
 if (number > 10)
 {
     Console.WriteLine("Talet är stort!");
@@ -15,7 +15,7 @@ else
 
 string input = "x";
 
-// Takes reads what a user inputs and stores it in a string variable.
+// Reads what a user inputs and stores it in a string variable.
 // The do while loop makes sure that the user ctually inputs a something to avoid a null value
 do
 {
@@ -33,7 +33,7 @@ while (input == null || input.Length < 1);
 Console.WriteLine("Hej, " + input);
 
 
-// Prints every number from 0 to the arbitrarily decided number at the start of the program
+// Prints every number from 0 to the number arbitrarily decided at the start of the program
 for (int i = 0; i <= number; i++)
 {
     Console.WriteLine(i);
